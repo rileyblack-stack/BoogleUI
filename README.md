@@ -1,3 +1,12 @@
+<p align="center">
+  <img src="./logo.png" width="220"/>
+</p>
+
+<h1 align="center">BoogleUI</h1>
+
+<p align="center">
+AI-powered interface refinement for modern product teams.
+</p>
 # BoogleUI
 
 AI-powered interface refinement for modern product teams.
