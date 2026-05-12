@@ -1,0 +1,20 @@
+{
+  "name": "boogle-ui",
+  "version": "0.1.0",
+  "description": "AI-powered interface refinement for modern product teams.",
+  "type": "module",
+  "scripts": {
+    "analyze": "node src/index.js",
+    "demo": "node scripts/runDemo.js"
+  },
+  "keywords": [
+    "ui",
+    "react",
+    "design-system",
+    "prototype",
+    "interface-refinement"
+  ],
+  "author": "Riley Black",
+  "license": "MIT",
+  "dependencies": {}
+}
