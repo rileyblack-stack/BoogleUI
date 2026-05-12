@@ -1,0 +1,12 @@
+{
+  "project": "BoogleUI",
+  "version": "0.1.0",
+  "input": "./examples/raw",
+  "output": "./examples/polished",
+  "rules": {
+    "improveSpacing": true,
+    "normalizeTypography": true,
+    "balanceHierarchy": true,
+    "generatePreview": true
+  }
+}
